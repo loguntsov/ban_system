@@ -1,0 +1,4 @@
+[{<<"ebloom">>,
+  {git,"https://github.com/basho/ebloom.git",
+       {ref,"43f0eb810f13d7fe9c434d580d81b58d7f5907b4"}},
+  0}].

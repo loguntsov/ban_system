@@ -1,0 +1,12 @@
+{application, ban_system, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib,
+    ebloom
+  ]},
+  {mod, {ban_system_app, []}},
+  {env, []}
+]}.
